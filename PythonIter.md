@@ -13,5 +13,7 @@ for x in np.nditer(np_baseball) :
 # Pandas iter loop
 ### Iterate over rows of cars
 ```
+# Code for loop that adds COUNTRY column
 for lab, row in cars.iterrows() :
+    cars.loc[lab, str.upper("country")] = str.upper(row["country"])
 ```
