@@ -31,3 +31,8 @@ Pandas 纳入了大量库和一些标准的数据模型，提供了高效地操�
 ### 图书：
 - Pandas的创始者：[利用Python进行数据分析](https%3A//book.douban.com/subject/25779298/)   (豆瓣)​book.douban.com/subject/25779298/（力荐）
 - 提升自己：[机器学习实战](https%3A//book.douban.com/subject/24703171/)  (豆瓣)​book.douban.com/subject/24703171/
+
+
+# Python 生态体系
+这 4 个库在 Python 生态体系中的地位也不一样，相对来说 Numpy 最简单，处于最底层。国外有大神用一张图总结过 Python 生态体系中各个工具的层次：<img src="https://pica.zhimg.com/50/v2-297731bd359ebc14978967a92f1716cb_720w.jpg?source=1940ef5c" data-caption="" data-size="normal" data-rawwidth="882" data-rawheight="660" class="origin_image zh-lightbox-thumb" width="882" data-original="https://pica.zhimg.com/v2-297731bd359ebc14978967a92f1716cb_r.jpg?source=1940ef5c"/>
+所以着手学这几个库的时候，可以先从 Numpy 学起，然后逐步掌握 SciPy，Pandas 和 Matplotlib。
