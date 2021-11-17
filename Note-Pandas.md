@@ -1,4 +1,4 @@
-
+### 基本屬性
 ```
 # Print the values of homelessness
 print(homelessness.values)
@@ -9,3 +9,5 @@ print(homelessness.columns)
 # Print the row index of homelessness
 print(homelessness.index)
 ```
+### Sorting & SubSetting
+
