@@ -1,6 +1,9 @@
 
 
 # Key Word: 如何系统地学习Python 中 matplotlib, numpy, scipy, panda
+### Scipy Lecture Notes
+- [英文原版](https://link.zhihu.com/?target=http%3A//www.scipy-lectures.org/)
+- [中文版](https://link.zhihu.com/?target=https%3A//github.com/jayleicn/scipy-lecture-notes-zh-CN)
 #
 
 # Python科学计算的笔记：包括Python基础、Numpy、Pandas、Matplotlib等包的学习笔记，很全。
