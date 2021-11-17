@@ -4,7 +4,14 @@
 ### Scipy Lecture Notes
 - [英文原版](https://link.zhihu.com/?target=http%3A//www.scipy-lectures.org/)
 - [中文版](https://link.zhihu.com/?target=https%3A//github.com/jayleicn/scipy-lecture-notes-zh-CN)
-#
+
+### Numpy & Pandas 简介
+- [Numpy & Pandas](https://mofanpy.com/tutorials/data-manipulation/np-pd/)
+
+### TechBridge 技術共筆部落格
+- [簡明 Python Numpy 入門教學](https://blog.techbridge.cc/2020/08/24/numpy-zen-intro-tutorial/)
+- [簡明 Python Pandas 入門教學](https://blog.techbridge.cc/2020/09/21/python-pandas-zen-tutorial/)
+
 
 # Python科学计算的笔记：包括Python基础、Numpy、Pandas、Matplotlib等包的学习笔记，很全。
 https://link.zhihu.com/?target=https%3A//github.com/lijin-THU/notes-python
