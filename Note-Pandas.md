@@ -1,4 +1,15 @@
 
+### Summary statistics
+> aggregation functions
+```
+# Import NumPy and create custom IQR function
+import numpy as np
+def iqr(column):
+    return column.quantile(0.75) - column.quantile(0.25)
+
+# Update to print IQR and median of temperature_c, fuel_price_usd_per_l, & unemployment
+print(sales[["temperature_c", "fuel_price_usd_per_l", "unemployment"]].agg([iqr, np.median]))
+```
 
 
 ### 基本屬性
@@ -21,7 +32,6 @@ condition = dogs["color"].isin(colors)
 dogs[condition]
 ```
 
-
 >  SubSet & the sort_values
 ```
 # Create indiv_per_10k col as homeless individuals per 10k state pop
@@ -38,5 +48,25 @@ result = high_homelessness_srt[["state","indiv_per_10k"]]
 
 # See the result
 print(result)
+```
+
+> Drop Duplicate
+```
+# Drop duplicate store/department combinations
+store_depts = sales.drop_duplicates(["store","department"])
+print(store_depts.head())
+
+# Subset the rows where is_holiday is True and drop duplicate dates
+holiday_dates = sales[sales["is_holiday"]==True].drop_duplicates("date")
+```
+> Count, Proportion & Sort
+```
+# Count the number of each department number and sort
+dept_counts_sorted = store_depts["department"].value_counts(sort=True)
+print(dept_counts_sorted)
+
+# Get the proportion of departments of each number and sort
+dept_props_sorted = store_depts["department"].value_counts(sort=True, normalize=True)
+print(dept_props_sorted)
 ```
 
