@@ -1,8 +1,22 @@
 # YOLO
 ### [知乎] 
+> [YOLO 系目标检测算法家族全景图！](https://zhuanlan.zhihu.com/p/165445276)
+
 > [深入浅出Yolo系列之Yolov3&Yolov4&Yolov5&Yolox核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/143747206)
 
-> [深入浅出Yolo系列之Yolov5核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/172121380
+> [深入浅出Yolo系列之Yolov5核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/172121380)
 
 ### 大白智能
-> [视频 - 《30天入门深度学习》系列课程](https://www.jiangdabai.com/vcat/%E3%80%8A30%E5%A4%A9%E5%85%A5%E9%97%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%B3%BB%E5%88%97%E8%AF%BE%E7%A8%8B)
+> [試看视频 - 《30天入门深度学习》系列课程](https://www.jiangdabai.com/vcat/%E3%80%8A30%E5%A4%A9%E5%85%A5%E9%97%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E3%80%8B%E7%B3%BB%E5%88%97%E8%AF%BE%E7%A8%8B)
+
+> [試看视频 - 第五章第二节 Yolov3相关算法的原理及实现（上）](https://www.jiangdabai.com/video/%e5%8f%91%e5%b8%83%e8%a7%86%e9%a2%91%e6%b5%8b%e8%af%95-2-2-2-2-2-3)
+
+>[付費課程-《30天入门人工智能》](https://ke.qq.com/course/3454999?tuin=16348fd5)
+
+
+### B站
+> [【YOLOV5】唐宇迪：YOLOV5目标物体检测实战课程分享！](https://www.bilibili.com/video/BV1sq4y1p7gp?p=5)
+
+> [手把手教你搭建自己的yolov5目标检测平台](https://www.bilibili.com/video/BV1f44y187Xg?p=5)
+> [博客-目标检测--手把手教你搭建自己的YOLOv5目标检测平台](https://blog.csdn.net/didiaopao/category_11321656.html?spm=1001.2014.3001.5482)
+
