@@ -1,5 +1,14 @@
 # PythonLearning
 
+### iThome 鐵人賽
+> [時間管理大師-時間序列分析終極密技(python教學)](https://ithelp.ithome.com.tw/users/20127776/ironman/3441)
+>
+> [深度學習的魔法使們](https://ithelp.ithome.com.tw/users/20112540/ironman/2064?page=2)
+> 
+> [Knock Knock! Deep Learning - Day 18 / DL x CV / 圖像與 CNN](https://ithelp.ithome.com.tw/articles/10248289)
+
+
+### Numpy & Pandas簡介
 > [簡明 Python Numpy 入門教學](https://blog.techbridge.cc/2020/08/24/numpy-zen-intro-tutorial/)
 > 
 > [簡明 Python Pandas 入門教學](https://blog.techbridge.cc/2020/09/21/python-pandas-zen-tutorial/)
