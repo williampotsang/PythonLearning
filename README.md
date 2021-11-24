@@ -1,5 +1,11 @@
 # PythonLearning
 
+> [簡明 Python Numpy 入門教學](https://blog.techbridge.cc/2020/08/24/numpy-zen-intro-tutorial/)
+> 
+> [簡明 Python Pandas 入門教學](https://blog.techbridge.cc/2020/09/21/python-pandas-zen-tutorial/)
+> 
+> [Numpy & Pandas 简介](https://mofanpy.com/tutorials/data-manipulation/np-pd/)
+
 ### Note-模型參考.md
 > B站 手把手教你搭建自己的yolov5目标检测平台
 > > 手把手教你搭建自己的yolov5目标检测平台
