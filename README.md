@@ -6,6 +6,12 @@
 > [深度學習的魔法使們](https://ithelp.ithome.com.tw/users/20112540/ironman/2064?page=2)
 > 
 > [Knock Knock! Deep Learning - Day 18 / DL x CV / 圖像與 CNN](https://ithelp.ithome.com.tw/articles/10248289)
+>
+> [使用Python進行資料分析-[Day02]Jupyter Notebook操作介紹！](https://ithelp.ithome.com.tw/articles/10192614)
+> 
+> [觀賞魚辨識的YOLO全餐](https://ithelp.ithome.com.tw/users/20129510/ironman/4385?page=2)
+> c
+> [手寫中文字之影像辨識 - YOLO](https://ithelp.ithome.com.tw/users/20141810/ironman/4759?page=1)
 
 
 ### Numpy & Pandas簡介
