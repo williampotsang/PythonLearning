@@ -32,7 +32,7 @@
 
 > [試看视频 - 第五章第二节 Yolov3相关算法的原理及实现（上）](https://www.jiangdabai.com/video/%e5%8f%91%e5%b8%83%e8%a7%86%e9%a2%91%e6%b5%8b%e8%af%95-2-2-2-2-2-3)
 
->[付費課程-《30天入门人工智能》](https://ke.qq.com/course/3454999?tuin=16348fd5)
+> [付費課程(騰訊課堂)-《30天入门人工智能》](https://ke.qq.com/course/3454999?tuin=16348fd5)
 
 ### B站 手把手教你搭建自己的yolov5目标检测平台
 > [手把手教你搭建自己的yolov5目标检测平台](https://www.bilibili.com/video/BV1f44y187Xg?p=5)
