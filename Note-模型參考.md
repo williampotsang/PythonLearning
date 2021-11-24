@@ -13,10 +13,19 @@
 
 >[付費課程-《30天入门人工智能》](https://ke.qq.com/course/3454999?tuin=16348fd5)
 
-
-### B站
-> [【YOLOV5】唐宇迪：YOLOV5目标物体检测实战课程分享！](https://www.bilibili.com/video/BV1sq4y1p7gp?p=5)
-
+### B站 手把手教你搭建自己的yolov5目标检测平台
 > [手把手教你搭建自己的yolov5目标检测平台](https://www.bilibili.com/video/BV1f44y187Xg?p=5)
+
 > [博客-目标检测--手把手教你搭建自己的YOLOv5目标检测平台](https://blog.csdn.net/didiaopao/category_11321656.html?spm=1001.2014.3001.5482)
+
+### B站 Pytorch 搭建自己的YoloV4目标检测平台
+> [Pytorch 搭建自己的YoloV4目标检测平台（Bubbliiiing 深度学习 教程）](https://www.bilibili.com/video/BV1Q54y1D7vj)
+
+
+### B站 唐宇迪：YOLOV5目标物体检测实战课程
+> [【YOLOV5】唐宇迪：YOLOV5目标物体检测实战课程分享！](https://www.bilibili.com/video/BV1sq4y1p7gp?p=5)
+> 
+> [【深度学习】1小时快速入门YOLOV5目标检测！唐宇迪：YOLOV5目标物体检测实战教](https://www.bilibili.com/video/BV1uv411K7eY?p=2)
+
+
 
