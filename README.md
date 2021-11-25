@@ -50,4 +50,4 @@ Machine Learning Crash Course features a series of lessons with video lectures, 
 ---
 ### Markdown
 > [Markdown指南](http://itmyhome.com/markdown/article/about/readme.html)  
-> [Markdown 教程](https://www.runoob.com/markdown/md-paragraph.html)  
+> [Markdown教程](https://www.runoob.com/markdown/md-paragraph.html)  
