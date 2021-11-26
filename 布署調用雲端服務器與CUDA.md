@@ -11,6 +11,8 @@ Machine Learning Crash Course features a series of lessons with video lectures, 
 
 ### Colaboratory
 > [欢迎使用 Colaboratory](https://colab.research.google.com/?utm_source=scs-index#scrollTo=GJBs_flRovLc)
+> 
+> [使用google colab训练YOLOv5模型 - 迷途小书童](https://xugaoxiang.com/2020/11/01/google-colab-yolov5/)
 
 # MS Azure
 
