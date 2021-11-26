@@ -46,6 +46,8 @@ Machine Learning Crash Course features a series of lessons with video lectures, 
 > > Machine Learning Crash Course
 > > 
 > > Colaboratory
+> > 
+> > [使用google colab训练YOLOv5模型 - 迷途小书童](https://xugaoxiang.com/2020/11/01/google-colab-yolov5/)
 
 ---
 ### Markdown
