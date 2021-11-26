@@ -1,3 +1,18 @@
+# 機器學習
+> [Python 全民瘋AI系列-機器學習](https://www.youtube.com/playlist?list=PLXSkku8eiD-iFRBr11rV83579hing3gMU)
+> 
+> [Python 機器學習首部曲](https://www.youtube.com/playlist?list=PLy7MS-q4l3xDYoR8MACYA3YyidUbEiz6j)
+> 
+> [合輯 -「Hung-yi Lee」](https://www.youtube.com/watch?v=CXgbekl66jc&list=RDCMUC2ggjtuuWvxrHHHiaDH1dlQ)
+> 
+> [Machine Learning (Hung-yi Lee, NTU)](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
+
+# 深度學習
+> [02、深度学习入门视频课程（上篇）](https://www.youtube.com/playlist?list=PL8LR_PrSuIRj9RixJXyO9CS8GIIoJlvtM)
+> 
+> [02、深度学习入门视频课程（下篇）- CNN](https://www.youtube.com/playlist?list=PL8LR_PrSuIRiDRs30V49jE8zx3l8N8BlW)
+
+
 # YOLO
 
 ### 博客 yolo系列之yolo v3【深度解析】
