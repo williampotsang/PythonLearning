@@ -14,6 +14,8 @@
 > [手寫中文字之影像辨識 - YOLO](https://ithelp.ithome.com.tw/users/20141810/ironman/4759?page=1)
 > 
 > [資安x系統x絕對領域 - [Day25]資安設備x廠商評比xNGFW方案比較](https://ithelp.ithome.com.tw/articles/10188125)
+> 
+> [[Andriod] Andriod Studio 從入門到進入狀況](https://ithelp.ithome.com.tw/users/20105694/ironman/1642)
 
 
 ### Numpy & Pandas簡介
