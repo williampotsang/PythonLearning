@@ -15,6 +15,7 @@
 >> [Machine Learning (Hung-yi Lee, NTU)](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
 >
 > [机器学习（Machine Learning）吴恩达（Andrew Ng）](https://www.youtube.com/playlist?list=PLOXON7BTL9IW7Ggbc09jLqGmzkwPI4-3V)
+> >[这份深度学习课程笔记获吴恩达点赞](https://mp.weixin.qq.com/s/nM8U6eGFQIaZXMXHtwb3dQ)
 
 # 深度學習
 > 深度学习入门视频课程
