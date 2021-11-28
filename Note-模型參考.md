@@ -1,6 +1,8 @@
 # 機器學習
 > [關於機器學習，這可能是目前最全面最無痛的入門路徑和資源！](http://bangqu.com/yh9X73.html)
 > 
+> [劍橋計算機博士推薦，畢業之前，我需要掌握這9個工具](https://bangqu.com/dUb611.html?utm_source=dable)
+> 
 > [李飛飛 史丹佛大學課程](https://www.bilibili.com/video/av13260183/)
 > 
 > [Python 全民瘋AI系列-機器學習](https://www.youtube.com/playlist?list=PLXSkku8eiD-iFRBr11rV83579hing3gMU)
