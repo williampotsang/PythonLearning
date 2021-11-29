@@ -23,11 +23,4 @@ Machine Learning Crash Course features a series of lessons with video lectures, 
 
 # python+spark 2.0+hadoop 機器學習與大數據分析實戰 pdf
 
-# Android 平台
-> [在Android上运行YOLOv5目标检测](https://xugaoxiang.com/2021/06/19/yolov5-for-android-using-torchscript/)
-> 
-> [在Android上进行yolov5目标检测，使用torchscript方式](https://xugaoxiang.com/2021/06/19/yolov5-for-android-using-torchscript/)
-> 
 
-# Windows 平台
-> [图像化工具打包yolov5，生成可执行文件exe - Auto Py to Exe](https://xugaoxiang.com/2021/10/13/yolov5-to-exe/)
