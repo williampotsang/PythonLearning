@@ -14,6 +14,9 @@ Machine Learning Crash Course features a series of lessons with video lectures, 
 > 
 > [使用google colab训练YOLOv5模型 - 迷途小书童](https://xugaoxiang.com/2020/11/01/google-colab-yolov5/)
 
+### MyBinder
+> [如何用iPad运行Python代码？](https://zhuanlan.zhihu.com/p/36830594)
+
 # MS Azure
 
 # Amazon AWS
