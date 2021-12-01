@@ -1,5 +1,7 @@
 
 
+# [Anaconda（三）jupyter notebook使用、汉化、设置工作路径](https://www.bilibili.com/read/cv12134802)
+
 # Conda 虛擬環境設置
 ### 设置虚拟环境 (非必要)
 建议在虚拟环境中安装tensorflow，搭配使用版本低一些的Python。在Anaconda Prompt里面设置环境，命名为py36（使用Python3.6)。
