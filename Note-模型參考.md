@@ -74,5 +74,5 @@
 > 
 > [【深度学习】1小时快速入门YOLOV5目标检测！唐宇迪：YOLOV5目标物体检测实战教](https://www.bilibili.com/video/BV1uv411K7eY?p=2)
 
-
-
+### Kaggle
+> [Kaggle入门，看这一篇就够了](https://zhuanlan.zhihu.com/p/25686876)
