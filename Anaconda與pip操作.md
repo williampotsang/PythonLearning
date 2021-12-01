@@ -1,7 +1,5 @@
 
 
-> [安装tensorflow（使用WHL）,手把手,教,whl](https://www.pythonf.cn/read/163419)
-
 # Conda 虛擬環境設置
 ### 设置虚拟环境 (非必要)
 建议在虚拟环境中安装tensorflow，搭配使用版本低一些的Python。在Anaconda Prompt里面设置环境，命名为py36（使用Python3.6)。
@@ -14,6 +12,9 @@ conda create --n py36 python=3.6
 conda activate py36
 ```
 
+#
+> # [安装tensorflow（使用WHL）,手把手,教,whl](https://www.pythonf.cn/read/163419)
+> 
 # Python 虛擬環境設置
 要建立新的虛擬環境，請選擇 Python 解譯器，並建立用來存放的 .\venv 目錄：
 ```
