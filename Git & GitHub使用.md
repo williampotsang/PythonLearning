@@ -1,6 +1,7 @@
 
 > [為你自己學 Git - Git 面試題](https://gitbook.tw/interview)
 
+> [Git Hub Doc](https://docs.github.com/cn/repositories/working-with-files/managing-files/moving-a-file-to-a-new-location)
 
 > [中文 git-very-good-tutorial](https://github.com/pyliaorachel/git-very-good-tutorial)
 
