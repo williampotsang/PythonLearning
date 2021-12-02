@@ -80,4 +80,7 @@
 > [Kaggle Datasets](https://www.kaggle.com/qingyi/wm811k-wafer-map)
 > 
 > [Kaggle入门，看这一篇就够了](https://zhuanlan.zhihu.com/p/25686876)
-> 
+
+> [KAGGLE 入門介紹](https://writings.jigfopsda.com/zh/posts/2021/kaggle_intro/)
+
+
