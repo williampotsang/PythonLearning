@@ -1,6 +1,7 @@
 
-
-# [Anaconda（三）jupyter notebook使用、汉化、设置工作路径](https://www.bilibili.com/read/cv12134802)
+> ### [jupyter notebook的基本使用---學習記錄2.23](https://tw511.com/a/01/26230.html)
+> ### [Anaconda（三）jupyter notebook使用、汉化、设置工作路径](https://www.bilibili.com/read/cv12134802)
+> ### [修改Anaconda中的Jupyter Notebook預設工作路徑的四種方式](https://www.itread01.com/content/1544590095.html)
 
 # Conda 虛擬環境設置
 ### 设置虚拟环境 (非必要)
