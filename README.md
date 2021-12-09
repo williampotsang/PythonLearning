@@ -45,7 +45,7 @@ Google
 > A self-study guide for aspiring machine learning practitioners
 Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
 >
-> > Machine Learning Crash Course
+> > [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 > > 
 > > Colaboratory
 > > 
