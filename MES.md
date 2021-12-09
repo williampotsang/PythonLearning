@@ -165,13 +165,31 @@ N28成熟产线为例，生产线机台约有70台,全线约有350个程式,每�
 
 <table>
     <tr>
-        <th>Supplier</th><th>System</th><th>SW</th><th>HW</th><th>Mgmt.</th><th>Intsall+Train+Customization</th><th>MA(2Y)</th><th>Memo</th>
+        <th>Supplier</th><th>System</th><th>SW</th><th>HW</th><th>Mgmt.</th><th>安裝/訓練/客製</th><th>MA(2Y)</th><th>Memo</th>
     </tr>
     <tr>
 	<td>IXM</td><td>MES+SPC+OCAP+ADS</td><td>SW</td><td>1,400,000</td><td>4,700,000</td><td rowspan="3">12,000,000</td><td>760,000(2Y)</td><td>Fab License, Ea<500</td>  
     </tr>
     <tr>
 	<td>潔達</td><td>AMS</td><td></td><td></td><td></td><td></td><td>Fab License</td>  
+    </tr>
+    <tr>
+	<td>TYNE</td><td>CP&WAT Judge</td><td></td><td></td><td></td><td></td><td>Fab License</td>  
+    </tr>
+    <tr>
+	<td>SEMI</td><td>EAP</td><td>4,000,000</td><td></td><td></td><td>70,000</td><td></td><td>Fab License</td>  
+    </tr>
+    <tr>
+	<td>BIStel</td><td>PMS+RMS</td><td>3,250,000</td><td></td><td></td><td>120,000</td><td></td><td>Fab License</td>  
+    </tr>
+    <tr>
+	<td>BIStel</td><td>APC+FDC</td><td>3,300,000</td><td></td><td></td><td>140,000</td><td></td><td>Fab License</td>  
+    </tr>
+    <tr>
+	<td></td><td>小計</td><td>10,550,000</td><td>1,400,000</td><td>4,700,000</td><td>12,330,000</td><td>760,000</td><td></td>  
+    </tr>
+    <tr>
+	<td></td><td>總計</td><td colspan="4">29,740,000</td><td colspan="2">約三千萬RMB</td>  
     </tr>
 </table>
 
