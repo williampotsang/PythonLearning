@@ -163,13 +163,27 @@ N28成熟产线为例，生产线机台约有70台,全线约有350个程式,每�
 
 
 
+<table>
+    <tr>
+        <th>Supplier</th><th>System</th><th>SW</th><th>HW</th><th>Mgmt.</th><th>Intsall+Train+Customization</th><th>MA(2Y)</th><th>Memo</th>
+    </tr>
+    <tr>
+	<td>IXM</td><td>MES+SPC+OCAP+ADS</td><td>SW</td><td>1,400,000</td><td>4,700,000</td><td rowspan="3">12,000,000</td><td>760,000(2Y)</td><td>Fab License, Ea<500</td>  
+    </tr>
+    <tr>
+	<td>潔達</td><td>AMS</td><td></td><td></td><td></td><td></td><td>Fab License</td>  
+    </tr>
+</table>
+
+
 
 Supplier      | System      		| SW    | HW        	  | Mgmt.     | Intsall+Train+Customization | MA(2Y)  | Memo
 -----	      |-----        		|-----	|-----      	  |-----      |-----       		    |-----    |-----
 IXM	      | MES+SPC+OCAP+ADS        |  	|  1,400,000      | 4,700,000 | 12,000,000 		    | 760,000 | Fab License, Ea<500
------	      |-----        		|-----	|-----      	  |-----      |-----       		    |-----    |-----
-IXM	      | MES+SPC+OCAP+ADS        |  	|  1,400,000      | 4,700,000 | 12,000,000 | 760,000 | Fab License, Ea<500
------	      |-----        		|-----	|-----      	  |-----      |-----       |-----    |-----
+潔達	     | AMS       	       |       |        	 |  	     | 		    	    	  | 760,000 | Fab License, Ea<500
+-----	      |-----        		|-----	|-----      	  |-----      |-----       		    |-----    |-----	      
+	     
+
 
 
 
