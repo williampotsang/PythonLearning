@@ -1,4 +1,20 @@
 
+
+> [Pandas教程 | 超好用的Groupby用法详解](https://zhuanlan.zhihu.com/p/101284491)
+
+> [Pandas教程 | 数据处理三板斧——map、apply、applymap详解](https://zhuanlan.zhihu.com/p/100064394)
+
+Pandas数据处理三板斧——map、apply、applymap详解
+Pandas数据分析——Merge数据拼接图文详解
+Pandas数据处理——玩转时间序列数据
+Pandas数据处理——盘点那些常用的函数（上）
+Pandas数据处理——盘点那些常用的函数（下）
+天秀！Pandas还能用来写爬虫？
+提高数据的颜值！一起看看Pandas中的那些Style
+提速百倍的Pandas性能优化方法，让你的Pandas飞起来！
+
+
+
 ### Summary statistics
 > aggregation functions
 ```
