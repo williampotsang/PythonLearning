@@ -196,6 +196,66 @@ for i in range(n):
     #ax.get_yaxis().set_visible(False)
 plt.show()
 
+#######################
+### ''Edge-Ring':3
+#######################
+### mapping_type = {'Center':0,'Donut':1,'Edge-Loc':2,'Edge-Ring':3,'Loc':4,'Random':5,'Scratch':6,'Near-full':7,'none':8}
+#df_map26_withlabel[df_map26_withlabel['failureNum']==3].head()
+
+## resahpe data, 每個die多長一個維度(深度)
+wafer_data_3 = np.stack(df_map26_withlabel[df_map26_withlabel['failureNum']==3].waferMap_t.to_numpy())
+wafer_data_3 = wafer_data_3.reshape(wafer_data_3.shape[0], 28, 28, 1)
+
+### Predict(Decode)
+decoded_imgs = model.predict(wafer_data_3)
+
+n = 10
+plt.figure(figsize=(20, 4))
+for i in range(n):
+    # 显示原本的图像
+    ax = plt.subplot(2, n, i + 1)
+    plt.imshow(wafer_data_3[i].reshape(28, 28))
+    #ax.get_xaxis().set_visible(False)
+    #ax.get_yaxis().set_visible(False)
+
+     # 显示重构后的图像
+    ax = plt.subplot(2, n, i+1+n)
+    plt.imshow(decoded_imgs[i].reshape(28, 28))
+    #ax.get_xaxis().set_visible(False)
+    #ax.get_yaxis().set_visible(False)
+plt.show()
+
+#######################
+### 'Scratch':6
+#######################
+### mapping_type = {'Center':0,'Donut':1,'Edge-Loc':2,'Edge-Ring':3,'Loc':4,'Random':5,'Scratch':6,'Near-full':7,'none':8}
+#df_map26_withlabel[df_map26_withlabel['failureNum']==6].head()
+
+## resahpe data, 每個die多長一個維度(深度)
+wafer_data_6 = np.stack(df_map26_withlabel[df_map26_withlabel['failureNum']==6].waferMap_t.to_numpy())
+wafer_data_6 = wafer_data_6.reshape(wafer_data_6.shape[0], 28, 28, 1)
+
+### Predict(Decode)
+decoded_imgs = model.predict(wafer_data_6)
+
+n = 10
+plt.figure(figsize=(20, 4))
+for i in range(n):
+    # 显示原本的图像
+    ax = plt.subplot(2, n, i + 1)
+    plt.imshow(wafer_data_6[i].reshape(28, 28))
+    #ax.get_xaxis().set_visible(False)
+    #ax.get_yaxis().set_visible(False)
+
+     # 显示重构后的图像
+    ax = plt.subplot(2, n, i+1+n)
+    plt.imshow(decoded_imgs[i].reshape(28, 28))
+    #ax.get_xaxis().set_visible(False)
+    #ax.get_yaxis().set_visible(False)
+
+plt.suptitle("'Scratch':6")
+plt.show()
+####################################################################################################
 
 # layer[7] is activation_3 (Activation), it is compressed representation
 get_3rd_layer_output = K.function([model.layers[0].input], [model.layers[7].output])
