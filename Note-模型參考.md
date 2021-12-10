@@ -1,3 +1,6 @@
+
+[普迪飞“芯知识”课堂](https://www.exensio.cn/openClass.html)
+
 # 機器學習
 > [關於機器學習，這可能是目前最全面最無痛的入門路徑和資源！](http://bangqu.com/yh9X73.html)
 > 
